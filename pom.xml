@@ -18,11 +18,11 @@
 	<distributionManagement>
 	<snapshotRepository>
 	      <id>nexus</id>
-	      <url>http://3.86.69.50:8081/repository/hcltraining/</url>
+	      <url>http://3.129.25.50:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 	<repository>
 	      <id>nexus</id>
-              <url>http://3.86.69.50:8081/repository/hcltraining/</url>
+              <url>http://3.129.25.50:8081/repository/maven-releases/</url>
 	</repository>
         </distributionManagement>
      
